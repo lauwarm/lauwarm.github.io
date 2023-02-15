@@ -1,2 +1,3 @@
-# blog
-My Blog - Build with Hugo - Served by Ionos
+# A Blog
+
+A Blog - Build with Hugo - Served by Github Pages
