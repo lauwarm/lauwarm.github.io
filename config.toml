@@ -1,4 +1,4 @@
-baseURL = "https://mugenbatscha.me"
+baseURL = "/"
 languageCode = "en-uk"
 title = "Fabian's Blog"
 theme = "mugenbatscha"
