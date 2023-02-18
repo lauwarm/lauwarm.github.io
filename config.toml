@@ -44,11 +44,6 @@ relativeURLs=true
     pre = "rss"
     url = "/index.xml"
     weight = 4
-#  [[menu.main]]
-#    name = "Blog"
-#    pre = "globe"
-#    url = "/posts"
-#    weight = 5
 
   [[menu.social]]
     name = "Blog"
