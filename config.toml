@@ -30,7 +30,7 @@ relativeURLs=true
     url = "/about/"
     weight = 1
 #  [[menu.main]]
-#    name = "Impressum Placeholder"
+#    name = "Impressum"
 #    pre = "info"
 #    url = "/impressum/"
 #    weight = 2
@@ -44,12 +44,17 @@ relativeURLs=true
     pre = "rss"
     url = "/index.xml"
     weight = 4
-  [[menu.main]]
+#  [[menu.main]]
+#    name = "Blog"
+#    pre = "globe"
+#    url = "/posts"
+#    weight = 5
+
+  [[menu.social]]
     name = "Blog"
     pre = "globe"
     url = "/posts"
     weight = 5
-
   [[menu.social]]
     name = "Twitter"
     url = "https://twitter.com/mugenbatscha"
