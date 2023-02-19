@@ -1,6 +1,3 @@
 [submodule "themes/mugenbatscha"]
 	path = themes/mugenbatscha
 	url = https://github.com/lauwarm/hugo-theme-mugenbatscha.git
-[submodule "themes/stack"]
-	path = themes/stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack-starter.git
