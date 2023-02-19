@@ -61,6 +61,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.13",
+    "cypress": "^12.6.0",
     "postcss": "^8.4.21",
     "postcss-cli": "^10.1.0",
     "tailwindcss": "^3.2.6"
@@ -69,15 +70,17 @@
     "build": "npm run hugo:build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "drafts": "hugo-extended list drafts",
-    "serve": "hugo server -D",
+    "start": "npm run hugo:start",
+    "serve": "hugo-extended server -D",
     "server-test": "hugo-extended server -D --bind 0.0.0.0 --noHTTPCache",
-    "hugo:build": "hugo --gc --minify --noTimes"
+    "hugo:build": "hugo-extended --cleanDestinationDir --gc --printPathWarnings --printUnusedTemplates --templateMetricsHints --minify --verbose --noTimes",
+    "hugo:start": "hugo-extended -p 1313 server -D --cleanDestinationDir --gc --verbose --noHTTPCache"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lauwarm/lauwarm.github.io.me.git"
   },
-  "author": "",
+  "author": "Fabian",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lauwarm/lauwarm.github.io.me/issues"
