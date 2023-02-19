@@ -29,7 +29,7 @@ Got a few Tours on my Bucket List which needs crossing out.
 
 I use Github, Instagram, Twitter. I have a Twitch Account too.
 
-I do have a cozy Place for all my [Social Links](https://mugenbatscha.me).
+I do have a cozy Place for all my [Social Links](https://tsfabian.me).
 
 ## DM me
 
@@ -37,7 +37,7 @@ So you read all the Blog Posts and are like, _I need to write him an Essay_.
 
 You can DM me on [Instagram](https://www.instagram.com/mugenbatscha/) or
 [Twitter](https://twitter.com/mugenbatscha).
-Or send an email to _contact at mugenbatscha dot me_.
+Or send an email to _hello at itsfabian dot me_.
 
 But please, no Essay...
 
