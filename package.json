@@ -1,7 +1,7 @@
 {
-  "name": "blog-mugenbatscha.me",
-  "version": "1.0.0",
-  "description": "My Blog - Build with Hugo - Served by Azure",
+  "name": "itsfabian.me",
+  "version": "2.0.0",
+  "description": "My Blog - Build with Hugo - Served by Github Pages",
   "main": "tailwind.config.js",
   "engines": {
     "node": "14.19.1",
@@ -17,11 +17,13 @@
     "fill-range": "^7.0.1",
     "glob": "^8.1.0",
     "highlight.js": "^11.7.0",
+    "hugo-extended": "^0.110.0",
     "import-fresh": "^3.3.0",
     "inflight": "^1.0.6",
     "js-tokens": "^8.0.1",
     "json-parse-even-better-errors": "^3.0.0",
     "jsonfile": "^6.1.0",
+    "katex": "^0.16.4",
     "lilconfig": "^2.0.3",
     "lines-and-columns": "^2.0.3",
     "lodash.toarray": "^4.4.0",
@@ -66,18 +68,19 @@
   "scripts": {
     "build": "npm run hugo:build",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "drafts": "hugo-extended list drafts",
     "serve": "hugo server -D",
-    "server-test": "hugo server -D --bind 0.0.0.0 --noHTTPCache",
+    "server-test": "hugo-extended server -D --bind 0.0.0.0 --noHTTPCache",
     "hugo:build": "hugo --gc --minify --noTimes"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lauwarm/blog-mugenbatscha.me.git"
+    "url": "git+https://github.com/lauwarm/lauwarm.github.io.me.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lauwarm/blog-mugenbatscha.me/issues"
+    "url": "https://github.com/lauwarm/lauwarm.github.io.me/issues"
   },
-  "homepage": "https://github.com/lauwarm/blog-mugenbatscha.me#readme"
+  "homepage": "https://github.com/lauwarm/lauwarm.github.io.me#readme"
 }
