@@ -4,6 +4,7 @@ image: ""
 date: 2022-11-29T08:01:30Z
 draft: false
 tags: ["docker", "azure", "github action", "blog", "development"]
+categories: ["Development"]
 ---
 
 The wonders of Github Actions and Azure.
