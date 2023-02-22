@@ -29,10 +29,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "drafts": "hugo-extended list drafts",
     "start": "npm run hugo:start",
+    "start:native": "npm run hugo:start:native",
     "serve": "hugo-extended server -D",
     "server-test": "hugo-extended server -D --bind 0.0.0.0 --noHTTPCache",
     "hugo:build": "hugo-extended --cleanDestinationDir --gc --printPathWarnings --printUnusedTemplates --templateMetricsHints --minify --verbose --noTimes",
-    "hugo:start": "hugo-extended -p 1313 server -D --cleanDestinationDir --gc --verbose --noHTTPCache --disableFastRender"
+    "hugo:start": "hugo-extended -p 1313 server -D --cleanDestinationDir --gc --verbose --noHTTPCache --disableFastRender",
+    "hugo:start:native": "hugo -p 1313 server -D --cleanDestinationDir --gc --verbose --noHTTPCache --disableFastRender"
   },
   "repository": {
     "type": "git",
