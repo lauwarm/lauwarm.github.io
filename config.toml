@@ -11,7 +11,7 @@ relativeURLs=true
   category = "categories"
 
 [author]
-  name = "Fabian"
+  name = "It's Fabian"
 
 [params]
   dateform        = "Jan 2, 2006"
