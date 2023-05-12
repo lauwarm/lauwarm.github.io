@@ -43,7 +43,7 @@ But please, no Essay...
 
 ## RSS
 
-[_Did I read RSS?_ Here you go.](https://blog.mugenbatscha.me/index.xml)
+[_Did I read RSS?_ Here you go.](https://itsfabian.me/index.xml)
 
 ## PS
 
