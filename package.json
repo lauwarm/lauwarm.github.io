@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "feather-icons": "^4.29.1",
-    "highlight.js": "^11.8.0",
+    "highlight.js": "^11.9.0",
     "hugo-extended": "^0.119.0",
     "katex": "^0.16.9",
     "postcss-cli": "^10.1.0",
