@@ -20,13 +20,14 @@ relativeURLs=true
 
   themeColor = "#494f5c"
 
-  headMetaContent = "Fabian's personal Blog about Coding and Cylcing."
+  headMetaContent = "Fabian's personal Blog about Coding and Hiking."
 
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [module]
   [[module.imports]]
-    path = "github.com/lauwarm/hugo-theme-mugenbatscha"
+#    path = "github.com/lauwarm/hugo-theme-mugenbatscha"
+    path = "mugenbatscha"
     disable=false
 
 [menu]
