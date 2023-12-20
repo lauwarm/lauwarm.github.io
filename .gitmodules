@@ -1,3 +1,6 @@
+[submodule "themes/mugenbatscha"]
+	path = themes/mugenbatscha
+	url = https://github.com/lauwarm/hugo-theme-mugenbatscha.git
 [submodule "themes/hugo-theme-mugenbatscha"]
 	path = themes/hugo-theme-mugenbatscha
 	url = https://github.com/lauwarm/hugo-theme-mugenbatscha.git
