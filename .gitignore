@@ -121,3 +121,6 @@ dist
 
 # gohugo
 .hugo_build.lock
+
+# macos
+.DS_Store
