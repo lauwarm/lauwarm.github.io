@@ -12,6 +12,7 @@
     "highlight.js": "^11.9.0",
     "hugo-extended": "^0.121.1",
     "katex": "^0.16.9",
+    "normalize.css": "^8.0.1",
     "postcss-cli": "^11.0.0",
     "postcss-selector-parser": "^6.0.15"
   },
@@ -19,6 +20,7 @@
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.16",
     "cypress": "^13.6.2",
+    "normalize.css": "^8.0.1",
     "postcss": "^8.4.33",
     "postcss-cli": "^11.0.0",
     "postcss-import": "^16.0.0",
