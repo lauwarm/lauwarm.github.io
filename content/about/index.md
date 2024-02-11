@@ -1,8 +1,9 @@
 ---
 title: "It's Fabian"
 date: 2021-08-01T11:41:14+02:00
-image: "images/about/1.webp"
+image: "/posts/images/about/1.webp"
 draft: false
+type: posts
 tags: ["about", "contact", "email"]
 special: "about"
 ---
