@@ -26,8 +26,8 @@ relativeURLs=true
 
 [module]
   [[module.imports]]
-    #path = "github.com/lauwarm/hugo-theme-mugenbatscha"
-    path = "mugenbatscha" #local development
+    path = "github.com/lauwarm/hugo-theme-mugenbatscha"
+    #path = "mugenbatscha" #local development
     disable=false
 
 [menu]
