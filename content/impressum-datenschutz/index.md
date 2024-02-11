@@ -3,6 +3,7 @@ title: "Impressum & Datenschutzerklärung"
 image: ""
 date: 2022-12-01T19:52:19+01:00
 draft: false
+type: posts
 tags: ["impressum", "datenschutzerklärung", "datenschutz", "german"]
 special: "imprint"
 ---
