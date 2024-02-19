@@ -1,9 +1,9 @@
 ---
 title: "Upgrading this Blog to be a Progressive Web App"
-image: ""
+image: "/posts/images/posts/20240218-gohugopwa/1.jpeg"
 date: 2024-02-18T18:34:35+01:00
 draft: false
-tags: ["pwa", "hugo", "development", "ai"]
+tags: ["pwa", "hugo", "development", "chatgpt", "stable diffusion"]
 ---
 
 Scrolling through the depths of the web I encountered something called PWA. Then I found a Blog which used such technology. Looked really pretty without the browser control on a mobile device, so I wanted to have that too. In this blog post, we'll explore the process of transforming a Hugo-based website into a PWA.
