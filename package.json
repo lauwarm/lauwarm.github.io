@@ -10,7 +10,7 @@
   "dependencies": {
     "feather-icons": "^4.29.1",
     "highlight.js": "^11.9.0",
-    "hugo-extended": "^0.123.3",
+    "hugo-extended": "^0.123.4",
     "katex": "^0.16.9",
     "normalize.css": "^8.0.1",
     "postcss-cli": "^11.0.0",
