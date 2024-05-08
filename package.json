@@ -8,7 +8,7 @@
     "npm": "9.3.1"
   },
   "dependencies": {
-    "feather-icons": "^4.29.1",
+    "feather-icons": "^4.29.2",
     "highlight.js": "^11.9.0",
     "hugo-extended": "^0.125.1",
     "katex": "^0.16.10",
