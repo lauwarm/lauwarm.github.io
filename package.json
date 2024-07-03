@@ -11,7 +11,7 @@
     "feather-icons": "^4.29.2",
     "highlight.js": "^11.9.0",
     "hugo-extended": "^0.127.0",
-    "katex": "^0.16.10",
+    "katex": "^0.16.11",
     "normalize.css": "^8.0.1",
     "postcss-cli": "^11.0.0",
     "postcss-selector-parser": "^6.1.0"
